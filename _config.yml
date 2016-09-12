@@ -4,7 +4,7 @@ menu:
   Archives: /archives
   # Reading: /reading
   En: /categories/En
-  About: /about
+  Abouts: /about
   关于: /cn
 
 ## you can create `tags` and `categories` folders in `../source`.
